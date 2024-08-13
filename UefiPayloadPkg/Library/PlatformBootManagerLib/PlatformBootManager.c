@@ -328,7 +328,7 @@ PlatformBootManagerAfterConsole (
     BootLogoUpdateProgress (
       White,
       Black,
-      L"Press ESC for Boot Options/Settings",
+      L"",
       White,
       0,
       0
